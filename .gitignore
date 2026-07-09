@@ -1,0 +1,11 @@
+# Release binaries are uploaded to GitHub Releases, not committed.
+*.apk
+*.aab
+*.sha256
+
+# Local files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
