@@ -8,7 +8,7 @@
 
 Последняя версия:
 
-[Открыть последнюю beta](https://github.com/FreNzy1000/habits-releases/releases/latest)
+[Открыть beta-релизы](https://github.com/FreNzy1000/habits-releases/releases)
 
 Для обычной установки нужен файл вида:
 
